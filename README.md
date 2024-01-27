@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Angus109
-- 👀 I’m into UI/ux design.i also have knowledge of back end development 
+- 👀 I’m a front end engineer.i also have knowledge of back end development 
 - 🌱 I’m currently learning data science 
 - 💞️ I’m looking to collaborate into data science and software development 
 - 📫 you can reach me via my email 
